@@ -198,6 +198,8 @@ containing a value of this type.
         public static final int ic_plusone_tall_off_client=0x7f02001c;
     }
     public static final class id {
+        public static final int btnAnimateMarker=0x7f050006;
+        public static final int btnPlayRouteAnimation=0x7f050007;
         public static final int hybrid=0x7f050004;
         public static final int map=0x7f050005;
         public static final int none=0x7f050000;
